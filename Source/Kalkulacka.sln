@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulacka", "Kalkulacka\Kalkulacka.csproj", "{B395A1F1-BAE6-4FEE-B2AA-410E35420676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kalkulacka", "Kalkulacka\Kalkulacka.csproj", "{B395A1F1-BAE6-4FEE-B2AA-410E35420676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulacka.Tests", "Kalkulacka.Tests\Kalkulacka.Tests.csproj", "{1A225E68-CA9B-43B4-98E3-878590121DEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B395A1F1-BAE6-4FEE-B2AA-410E35420676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B395A1F1-BAE6-4FEE-B2AA-410E35420676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B395A1F1-BAE6-4FEE-B2AA-410E35420676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A225E68-CA9B-43B4-98E3-878590121DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A225E68-CA9B-43B4-98E3-878590121DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A225E68-CA9B-43B4-98E3-878590121DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A225E68-CA9B-43B4-98E3-878590121DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
